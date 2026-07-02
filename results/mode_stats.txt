@@ -1,0 +1,19 @@
+==================================================
+FULL-RUN STATISTICS
+==================================================
+TOTAL_CYCLES=49998
+LMS_UTIL=87.7975
+SIGNLMS_UTIL=12.2025
+MU_MIN=2
+MU_MAX=4
+MU_AVG=3.0341
+
+==================================================
+STEADY STATE STATISTICS
+==================================================
+STEADY_CYCLES=39998
+STEADY_LMS_UTIL=87.9294
+STEADY_SIGNLMS_UTIL=12.0706
+STEADY_MU_MIN=2
+STEADY_MU_MAX=4
+STEADY_MU_AVG=2.9914
